@@ -4,7 +4,7 @@ Muxlink is a customizable, open-source link-in-bio solution that lets you create
 
 ## Overview
 
-This project provides a simple yet powerful platform to consolidate your online presence. It's perfect for creators, developers, and anyone who wants to share multiple links with their audience through a single, elegant URL. The application features a public-facing profile page and a secure admin panel for managing your content.
+This project provides a simple yet powerful platform to consolidate your online presence. It's perfect for creators, developers, and anyone who wants to share multiple  links with their audience through a single, elegant URL. The application features a public-facing profile page and a secure admin panel for managing your content.
 
 ## Features
 
